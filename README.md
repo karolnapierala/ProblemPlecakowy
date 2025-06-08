@@ -1,4 +1,4 @@
-# ProblemPlecakowy
+# Problem Plecakowy
 
 Wyjeżdżając na wycieczkę musisz spakować plecak o maksymalnej pojemności C. Do plecaka spakuj takie przedmioty, aby ich wartość była jak największa, a jednocześnie ich objętość nie przekroczyła pojemności plecaka. Wyznacz te elementy za pomocą algorytmu programowania dynamicznego oraz algorytmu brute force.
 
